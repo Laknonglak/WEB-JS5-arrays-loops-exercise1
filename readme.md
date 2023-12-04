@@ -1,6 +1,6 @@
 ## Exercise1
 
-### 1.1 let myAlphabet = ['A', 'B', 'C', 'D','E','F','G'];
+### 1.1 let myAlphabet = ['A', 'B', 'C', 'D', 'E', 'F', 'G'];
     - What is the length of the array?
     - Write a function called myAlphabetLength which console.logs the length of the array.
 
