@@ -8,7 +8,7 @@
     - Console.log each item in the array. Also console.log the index for each planet.
 
 
-#### 1.3 Console.log each item in this array: let myArr = [ 1, 2, 'One', true];
+#### 1.3 Console.log each item in this array: let myArr = [ 1, 2, 'One', true]; 
    		
 
 
